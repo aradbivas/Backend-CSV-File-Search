@@ -13,6 +13,10 @@
     "chance": "^1.1.4",
     "csv-writer": "^1.6.0",
     "express": "^4.17.1",
-    "fs-extra": "^8.1.0"
+    "fast-csv": "^4.3.6",
+    "fs-extra": "^8.1.0",
+    "papaparse": "^5.3.2",
+    "path": "^0.12.7",
+    "trie-prefix-tree": "^1.5.1"
   }
 }
